@@ -18,3 +18,7 @@ To measure the total cut length, we used a stepper motor to drive a belt attache
 
 ![measure](measuring_system.png)
 ![feed in ](drive_in.png)
+
+After the cut is performed, the rod falls the bent sheet-metal platform to the custom sheet metal collection tray. A video of the cut process can be seen below
+
+[Full video](https://drive.google.com/file/d/1474lCladpDGj5An06TtTJEMj-hvL-3g2/view)
